@@ -66,7 +66,7 @@ export default {
 
   data() {
     return {
-      apiKey: "apiKey=5842ef3e4746474db497c11fdfbfe71a",
+      apiKey: "APIKEY",
       titleText: "Top Headlines",
       results: [],
       loading: true
