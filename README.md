@@ -1,4 +1,5 @@
 # vue-news-app
+![ScreenShot](/screenshots/screenshot.png)
 
 > This app was built in order to practice using APIs. If you'd like to run the code yourself and add to it, follow these steps:
 
